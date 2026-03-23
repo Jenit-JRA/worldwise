@@ -1,0 +1,383 @@
+{
+  "cities": [
+    {
+      "id": "cd95",
+      "cityName": "Blindcrake",
+      "country": {
+        "latitude": 54.700889757000546,
+        "lookupSource": "coordinates",
+        "longitude": -3.2792070392339157,
+        "localityLanguageRequested": "en",
+        "continent": "Europe",
+        "continentCode": "EU",
+        "countryName": "United Kingdom of Great Britain and Northern Ireland (the)",
+        "countryCode": "GB",
+        "principalSubdivision": "England",
+        "principalSubdivisionCode": "GB-ENG",
+        "city": "Blindcrake",
+        "locality": "Blindcrake",
+        "postcode": "CA13 9",
+        "plusCode": "9C6RPP2C+98",
+        "localityInfo": {
+          "administrative": [
+            {
+              "name": "United Kingdom of Great Britain and Northern Ireland (the)",
+              "description": "country in Western Europe",
+              "isoName": "United Kingdom of Great Britain and Northern Ireland (the)",
+              "order": 4,
+              "adminLevel": 2,
+              "isoCode": "GB",
+              "wikidataId": "Q145",
+              "geonameId": 2635167
+            },
+            {
+              "name": "England",
+              "description": "home nation of the United Kingdom",
+              "isoName": "England",
+              "order": 6,
+              "adminLevel": 4,
+              "isoCode": "GB-ENG",
+              "wikidataId": "Q21",
+              "geonameId": 6269131
+            },
+            {
+              "name": "Cumberland",
+              "description": "unitary council area in Cumbria, England",
+              "order": 11,
+              "adminLevel": 6,
+              "wikidataId": "Q110536343"
+            },
+            {
+              "name": "Blindcrake",
+              "description": "village and civil parish in Cumbria, England, UK",
+              "order": 15,
+              "adminLevel": 10,
+              "wikidataId": "Q2116071",
+              "geonameId": 7294548
+            }
+          ],
+          "informative": [
+            {
+              "name": "Europe",
+              "description": "terrestrial continent located in north-western Eurasia",
+              "isoName": "Europe",
+              "order": 1,
+              "isoCode": "EU",
+              "wikidataId": "Q46",
+              "geonameId": 6255148
+            },
+            {
+              "name": "British Isles",
+              "description": "group of islands in northwest Europe",
+              "order": 2,
+              "wikidataId": "Q38272",
+              "geonameId": 2654669
+            },
+            {
+              "name": "Europe/London",
+              "description": "time zone",
+              "order": 3
+            },
+            {
+              "name": "Great Britain",
+              "description": "island in the North Atlantic Ocean off the northwest coast of continental Europe",
+              "order": 5,
+              "wikidataId": "Q23666",
+              "geonameId": 2648147
+            },
+            {
+              "name": "Cumbria",
+              "description": "ceremonial county of England",
+              "isoName": "Cumbria",
+              "order": 7,
+              "isoCode": "GB-CMA",
+              "wikidataId": "Q23066",
+              "geonameId": 2651712
+            },
+            {
+              "name": "North West England",
+              "description": "region of England",
+              "order": 8,
+              "wikidataId": "Q47967",
+              "geonameId": 2641227
+            },
+            {
+              "name": "Cumbria Fire and Rescue Service",
+              "description": "fire and rescue service in north west England",
+              "order": 9,
+              "wikidataId": "Q5194033"
+            },
+            {
+              "name": "Cumberland",
+              "order": 10
+            },
+            {
+              "name": "Lake District National Park",
+              "description": "protected area of the Lake District in England",
+              "order": 12,
+              "wikidataId": "Q11811449",
+              "geonameId": 2645021
+            },
+            {
+              "name": "Lake District",
+              "description": "mountainous region in North West England, UK",
+              "order": 13,
+              "wikidataId": "Q211778",
+              "geonameId": 2645022
+            },
+            {
+              "name": "Allerdale",
+              "description": "former non-metropolitan district of Cumbria, England",
+              "order": 14,
+              "wikidataId": "Q1532953",
+              "geonameId": 7290662
+            },
+            {
+              "name": "CA13 9",
+              "description": "postal code",
+              "order": 16
+            }
+          ]
+        }
+      },
+      "emoji": "🇬🇧",
+      "date": "2026-03-18T01:07:47.435Z",
+      "notes": "",
+      "position": {
+        "lat": "54.700889757000546",
+        "lng": "-3.2792070392339157"
+      }
+    },
+    {
+      "id": "f573",
+      "cityName": "Paracuellos de la Ribera",
+      "country": {
+        "latitude": 41.4281459629693,
+        "lookupSource": "coordinates",
+        "longitude": -1.5352084760117182,
+        "localityLanguageRequested": "en",
+        "continent": "Europe",
+        "continentCode": "EU",
+        "countryName": "Spain",
+        "countryCode": "ES",
+        "principalSubdivision": "Aragon",
+        "principalSubdivisionCode": "ES-AR",
+        "city": "Paracuellos de la Ribera",
+        "locality": "Paracuellos de la Ribera",
+        "postcode": "",
+        "plusCode": "8CHWCFH7+7W",
+        "localityInfo": {
+          "administrative": [
+            {
+              "name": "Spain",
+              "description": "constitutional monarchy in Southwest Europe",
+              "isoName": "Spain",
+              "order": 2,
+              "adminLevel": 2,
+              "isoCode": "ES",
+              "wikidataId": "Q29",
+              "geonameId": 2510769
+            },
+            {
+              "name": "Aragon",
+              "description": "autonomous community in Spain",
+              "isoName": "Aragon",
+              "order": 5,
+              "adminLevel": 4,
+              "isoCode": "ES-AR",
+              "wikidataId": "Q4040",
+              "geonameId": 3336899
+            },
+            {
+              "name": "North East",
+              "order": 6,
+              "adminLevel": 3
+            },
+            {
+              "name": "Provincia de Zaragoza",
+              "description": "province in Aragon",
+              "isoName": "Provincia de Zaragoza",
+              "order": 7,
+              "adminLevel": 6,
+              "isoCode": "ES-Z",
+              "wikidataId": "Q55180",
+              "geonameId": 3104323
+            },
+            {
+              "name": "Comunidad de Calatayud",
+              "description": "comarca of Aragon, Spain, in the province of Zaragoza",
+              "order": 8,
+              "adminLevel": 7,
+              "wikidataId": "Q1123052"
+            },
+            {
+              "name": "Paracuellos de la Ribera",
+              "description": "human settlement in Zaragoza Province, Aragon, Spain",
+              "order": 9,
+              "adminLevel": 8,
+              "wikidataId": "Q1650679",
+              "geonameId": 3114395
+            }
+          ],
+          "informative": [
+            {
+              "name": "Europe",
+              "description": "terrestrial continent located in north-western Eurasia",
+              "isoName": "Europe",
+              "order": 1,
+              "isoCode": "EU",
+              "wikidataId": "Q46",
+              "geonameId": 6255148
+            },
+            {
+              "name": "Europe/Madrid",
+              "description": "time zone",
+              "order": 3
+            },
+            {
+              "name": "Iberian Peninsula",
+              "description": "peninsula located in the extreme southwest of Europe",
+              "order": 4,
+              "wikidataId": "Q12837",
+              "geonameId": 2267430
+            }
+          ]
+        }
+      },
+      "emoji": "🇪🇸",
+      "date": "2026-03-22T06:52:13.902Z",
+      "notes": "",
+      "position": {
+        "lat": "41.4281459629693",
+        "lng": "-1.5352084760117182"
+      }
+    },
+    {
+      "id": "4605",
+      "cityName": "Monkombu",
+      "country": {
+        "latitude": 9.454263003022223,
+        "lookupSource": "coordinates",
+        "longitude": 76.42746411485561,
+        "localityLanguageRequested": "en",
+        "continent": "Asia",
+        "continentCode": "AS",
+        "countryName": "India",
+        "countryCode": "IN",
+        "principalSubdivision": "Kerala",
+        "principalSubdivisionCode": "IN-KL",
+        "city": "Monkombu",
+        "locality": "Monkombu",
+        "postcode": "",
+        "plusCode": "6JXRFC3G+PX",
+        "localityInfo": {
+          "administrative": [
+            {
+              "name": "India",
+              "description": "country in South Asia",
+              "isoName": "India",
+              "order": 3,
+              "adminLevel": 2,
+              "isoCode": "IN",
+              "wikidataId": "Q668",
+              "geonameId": 1269750
+            },
+            {
+              "name": "Kerala",
+              "description": "Indian state",
+              "isoName": "Kerala",
+              "order": 8,
+              "adminLevel": 4,
+              "isoCode": "IN-KL",
+              "wikidataId": "Q1186",
+              "geonameId": 1267254
+            },
+            {
+              "name": "Alappuzha district",
+              "description": "district of Kerala, India",
+              "order": 9,
+              "adminLevel": 5,
+              "wikidataId": "Q928959",
+              "geonameId": 1278986
+            },
+            {
+              "name": "Monkombu",
+              "description": "village in Alappuzha District, Kerala, India",
+              "order": 10,
+              "adminLevel": 6,
+              "wikidataId": "Q3529977",
+              "geonameId": 12501139
+            },
+            {
+              "name": "Kuttanad Taluk",
+              "description": "taluk in Kerala, India",
+              "order": 12,
+              "adminLevel": 6,
+              "wikidataId": "Q16135961"
+            },
+            {
+              "name": "Veliyanadu",
+              "order": 13,
+              "adminLevel": 7
+            },
+            {
+              "name": "Pulincunnoo Grama Panchayat",
+              "description": "Gram Panchayat in Alappuzha district of Kerala, India",
+              "order": 14,
+              "adminLevel": 8,
+              "wikidataId": "Q16135393"
+            }
+          ],
+          "informative": [
+            {
+              "name": "Asia",
+              "description": "terrestrial continent, mainly in the northeastern quadrant",
+              "isoName": "Asia",
+              "order": 1,
+              "isoCode": "AS",
+              "wikidataId": "Q48",
+              "geonameId": 6255147
+            },
+            {
+              "name": "Asia/Kolkata",
+              "description": "time zone",
+              "order": 2
+            },
+            {
+              "name": "Indian subcontinent",
+              "description": "physiographical region in South Asia",
+              "order": 4,
+              "wikidataId": "Q60140",
+              "geonameId": 6269134
+            },
+            {
+              "name": "Mainland India",
+              "order": 5
+            },
+            {
+              "name": "Southern Zonal Council",
+              "order": 6
+            },
+            {
+              "name": "Southern Railway",
+              "order": 7
+            },
+            {
+              "name": "2016 Kerala Legislative Assembly election in Kuttanad State Assembly constituency",
+              "description": "elections for the 14th Legislative Assembly of Kerala",
+              "order": 11,
+              "wikidataId": "Q105989670"
+            }
+          ]
+        }
+      },
+      "emoji": "🇮🇳",
+      "date": "2026-03-22T06:52:26.289Z",
+      "notes": "",
+      "position": {
+        "lat": "9.454263003022223",
+        "lng": "76.42746411485561"
+      }
+    }
+  ]
+}
