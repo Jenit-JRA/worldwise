@@ -28,7 +28,7 @@ const FAKE_USER = {
     name: "Jenit",
     email: "jenitabraham391@gmail.com",
     password: "abcdefg",
-    avatar: "https://i.pravatar.cc/100?u=zz",
+    avatar: "https://i.pravatar.cc/100?img=47",
 };
 
 // ✅ Provider OUTSIDE reducer
